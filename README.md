@@ -1,0 +1,1 @@
+A README file for binary_trees repo. This repo contains a team project we did at ALX_Africa Software Engineering program on Binary Tree data structures in C Laguage. Unfortunately I worked on this project alone because I have got no time to find a partner to work with.
